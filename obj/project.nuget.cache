@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "8fF2WcHys8c=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Playwright\\PlaywrightMultiCompany\\PlaywrightMultiCompany.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\bogus\\35.6.2\\bogus.35.6.2.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\microsoft.codecoverage\\17.13.0\\microsoft.codecoverage.17.13.0.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\microsoft.net.test.sdk\\17.13.0\\microsoft.net.test.sdk.17.13.0.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\microsoft.playwright\\1.50.0\\microsoft.playwright.1.50.0.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\microsoft.playwright.nunit\\1.50.0\\microsoft.playwright.nunit.1.50.0.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\microsoft.playwright.testadapter\\1.50.0\\microsoft.playwright.testadapter.1.50.0.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.13.0\\microsoft.testplatform.objectmodel.17.13.0.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\microsoft.testplatform.testhost\\17.13.0\\microsoft.testplatform.testhost.17.13.0.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\nunit.analyzers\\4.4.0\\nunit.analyzers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\system.text.json\\6.0.10\\system.text.json.6.0.10.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Areesha.Raees\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
