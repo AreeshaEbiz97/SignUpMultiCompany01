@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Playwright\\PlaywrightMultiCompany\\PlaywrightMultiCompany.csproj": {}
+    "C:\\New folder\\SignUpMultiCompany01\\PlaywrightMultiCompany.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Playwright\\PlaywrightMultiCompany\\PlaywrightMultiCompany.csproj": {
+    "C:\\New folder\\SignUpMultiCompany01\\PlaywrightMultiCompany.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Playwright\\PlaywrightMultiCompany\\PlaywrightMultiCompany.csproj",
+        "projectUniqueName": "C:\\New folder\\SignUpMultiCompany01\\PlaywrightMultiCompany.csproj",
         "projectName": "PlaywrightMultiCompany",
-        "projectPath": "C:\\Projects\\Playwright\\PlaywrightMultiCompany\\PlaywrightMultiCompany.csproj",
-        "packagesPath": "C:\\Users\\Areesha.Raees\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Playwright\\PlaywrightMultiCompany\\obj\\",
+        "projectPath": "C:\\New folder\\SignUpMultiCompany01\\PlaywrightMultiCompany.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\New folder\\SignUpMultiCompany01\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Areesha.Raees\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -94,26 +87,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.310/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

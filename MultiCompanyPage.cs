@@ -468,30 +468,6 @@ private async Task ClickYesForSubsidiary()
     Console.WriteLine("[Success]: Order placed successfully.");
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
            
 public async Task VerifyOrderSummaryAsync()
 {
